@@ -1,1 +1,1 @@
-# auto-emailer-python
+created in educational target
